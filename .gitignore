@@ -37,3 +37,4 @@ html/*
 jupyter-backup/*
 test.ipynb
 /tests/*.out
+.DS_Store
